@@ -1,0 +1,3 @@
+[submodule "submodule_child"]
+	path = submodule_child
+	url = https://github.com/flyingcloud192/git_child.git
